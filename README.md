@@ -1,2 +1,2 @@
 # broken-code
-This is the website for the NOTBC game in rec room!
+this website wont recieve updates for... some time.
